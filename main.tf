@@ -86,7 +86,7 @@ resource "aws_s3_bucket" "bucket" {
   force_destroy = true
 
   tags = {
-    Name = "my-s3-bucket"
+    Name = "my-s3-bucket-Naveen"
   }
 }
 
