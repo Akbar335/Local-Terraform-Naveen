@@ -11,6 +11,6 @@ terraform {
 
 provider "aws" {
   region     = var.aws_region
-  access_key = "GETFRomAWS"
-  secret_key = "GETFromAWS"
+  access_key = "AKIA3WUYYIPH25JTKWTQ"
+  secret_key = "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"
 }
